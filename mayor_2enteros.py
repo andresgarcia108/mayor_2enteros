@@ -18,6 +18,6 @@ else:
         mayor = x
     else:
         mayor = y
-
 #output
-print ("El mayor entre " + str(x) + " y " + str(y) +" es " + str(mayor))
+    print ("El mayor entre " + str(x) + " y " + str(y) +" es " + str(mayor))
+
